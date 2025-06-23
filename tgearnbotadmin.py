@@ -23,15 +23,15 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Bot configuration
-TOKEN = "7584900679:AAHAuu9M31o5pFunnsHv0f-dFAScAKV7gEg"
+TOKEN = "8055336106:AAEQE68sNvaYQass4JlaE-RkxPqSwfK_oGY"
 ADMIN_ID = 7886784906  # Your admin ID
 BOT_NAME = "EARNINGBY02_BOT"
 BOT_USERNAME = "@EARNINGBY02_BOT"
 
 # Required channels
 REQUIRED_CHANNELS = [
-    {"id": "@KHF_Exclusive_Promoter", "url": "https://t.me/KHF_Exclusive_Promoter"},
-    {"id": "@payout_k_Channel", "url": "https://t.me/payout_k_Channel"}
+    {"id": "@BoterGodown", "url": "https://t.me/BoterGodown"},
+    {"id": "@Boter_Godown", "url": "https://t.me/Boter_Godown"}
 ]
 
 # Web app for withdrawal
